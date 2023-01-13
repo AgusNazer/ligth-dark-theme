@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AgusNazer/ligth-dark-theme/static/css/main.f0f2351c.css",
+    "main.js": "/AgusNazer/ligth-dark-theme/static/js/main.8e60d839.js",
+    "static/media/foto1.png": "/AgusNazer/ligth-dark-theme/static/media/foto1.4d2764d7d30029abf724.png",
+    "static/media/foto2.jpeg": "/AgusNazer/ligth-dark-theme/static/media/foto2.ea185bf165642b5aba2f.jpeg",
+    "static/media/foto3.jpg": "/AgusNazer/ligth-dark-theme/static/media/foto3.e419a0d2c4ca55c6fe95.jpg",
+    "index.html": "/AgusNazer/ligth-dark-theme/index.html",
+    "main.f0f2351c.css.map": "/AgusNazer/ligth-dark-theme/static/css/main.f0f2351c.css.map",
+    "main.8e60d839.js.map": "/AgusNazer/ligth-dark-theme/static/js/main.8e60d839.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0f2351c.css",
+    "static/js/main.8e60d839.js"
+  ]
+}
