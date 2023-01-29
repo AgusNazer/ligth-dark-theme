@@ -1,0 +1,11 @@
+
+.main__container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+.Dark{
+  background-color: rgba(04,04, 06);
+  color: beige;
+}

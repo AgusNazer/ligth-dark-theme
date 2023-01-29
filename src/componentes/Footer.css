@@ -1,0 +1,13 @@
+.p__footer{
+   margin-top: 20px;
+}
+.link__github{
+    margin-top: 5px;
+    font-size: 18px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(53, 199, 187);
+}
